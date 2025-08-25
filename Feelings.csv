@@ -1,0 +1,11 @@
+Comment,Feelings,Prob_POS,Prob_NEG,Probability
+El servicio fue excelente y rápido.,POS,0.96,0.0,0.96
+Estoy satisfecho con al entrega.,POS,0.94,0.0,0.94
+Me encantó la atención que recibí.,POS,0.97,0.0,0.97
+"No volvería a comprar aquí, fue una mala experiencia.",NEG,0.02,0.87,0.87
+"Todo fue perfecto, superó mis expectativas.",POS,0.94,0.01,0.94
+"El envío llegó en buen estado, excenlente.",POS,0.89,0.01,0.89
+Buena calidad y buen precio.,POS,0.88,0.01,0.88
+El soporte técnico no resolvió mi problema.,NEG,0.02,0.76,0.76
+Estoy muy feliz con mi compra.,POS,0.95,0.0,0.95
+No me gustó para nada el servicio al cliente.,NEG,0.01,0.96,0.96
